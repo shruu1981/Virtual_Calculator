@@ -6,36 +6,18 @@ Hand Gesture Detection: The calculator detects hand gestures to simulate button 
 Simple Calculator Functions: Supports basic arithmetic operations including addition, subtraction, multiplication, and division.
 Real-Time Interaction: Interact with the calculator in real-time using your webcam.
 Error Handling: The calculator provides basic error handling for invalid expressions.
-Requirements
-Python 3.x
-OpenCV
-cvzone
-Mediapipe (cvzone dependency)
+
 Installation
 Clone the repository:
 
-git clone https://github.com/yourusername/hand-gesture-calculator.git
+git clone https://github.com/shruu1981/Virtual_Calculator.git
 
-bash
-Copy code
-cd hand-gesture-calculator
-Install the required packages:
 
-bash
-Copy code
-pip install -r requirements.txt
-How to Run
-Ensure that your webcam is connected and properly set up.
 
-Run the main script:
 
-bash
-Copy code
-python hand_calculator.py
-The webcam window will open, showing the calculator interface. You can interact with the buttons using your hand gestures.
 
 Project Structure
-hand_calculator.py: Main script that runs the calculator.
+virtual_calculator.py: Main script that runs the calculator.
 requirements.txt: Contains the list of dependencies required for the project.
 README.md: Project documentation.
 Demo
