@@ -14,10 +14,7 @@ Mediapipe (cvzone dependency)
 Installation
 Clone the repository:
 
-bash
-Copy code
 git clone https://github.com/yourusername/hand-gesture-calculator.git
-Navigate to the project directory:
 
 bash
 Copy code
