@@ -1,0 +1,5 @@
+
+Python 3.x
+OpenCV
+cvzone
+Mediapipe (cvzone dependency)
