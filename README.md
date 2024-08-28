@@ -26,3 +26,4 @@ How it Works
 The project uses cvzone and OpenCV for real-time hand detection and tracking.
 The calculator interface is drawn using OpenCV functions.
 When a user makes a gesture close to a button, it simulates a button press, and the calculator performs the corresponding operation.
+[![Watch the video](video_thumbnail.png)]("C:\Users\shrutika\Downloads\20240829_002657.mp4")
